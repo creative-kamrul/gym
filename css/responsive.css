@@ -1,0 +1,577 @@
+@media(min-width:320px) and (max-width:575px){
+    /* nav css start */
+    nav{
+        margin-top: 0;
+        padding: 8px 0 !important;
+    }
+    nav .navbar-brand{
+        background: transparent;
+        border: 0;
+        width: auto;
+        height: auto;
+        line-height: 0;
+        position: static;
+    }
+    nav .navbar-brand img{
+        width: 80%;
+    }
+    nav ul{
+        background: #000;
+        text-align: center;
+    }
+    nav ul li a{
+        margin-left: 0;
+    }
+    /* nav css end */
+
+   /* banner css start */
+    #banner-part .banner .overlay{
+        text-align: center;
+        padding-top: 150px;
+        padding-bottom: 100px;
+    }
+    #banner-part .banner .overlay h3{
+        font-size: 25px;
+    }
+    #banner-part .banner .overlay h1{
+        font-size: 40px;
+    }
+    #banner-part .banner .overlay p{
+        width: auto;
+        font-size: 12px;
+    }
+    #banner-part .banner .overlay a{
+        margin-left: 10px;
+        padding: 8px;
+    }
+
+    #banner-part .banner .overlay h3::after {
+        display: none;
+    }
+    #banner-part .banner .overlay h3::before {
+        display: none;
+    }
+    #banner-part .banner .overlay h1::after {
+        display: none;
+    }
+    #banner-part .banner .overlay h1::before {
+        display: none;
+    }
+    #banner-part .banner .overlay .aftr::after{
+        display: none;
+    }
+   #banner-part .banner .overlay .aftr::before{
+        display: none;
+    }
+
+
+       /* banner css end */
+
+
+       /* about css start */
+       #about-part .text p{
+           width: auto;
+           font-size: 13px;
+       }
+
+       /* about css end */
+       /* team css start */
+       #team-part .item .img{
+           top: 20px;
+       }
+       /* team css end */
+
+
+       /* #membership-part .item h3{
+           padding: 10px;
+           font-size: 14px;
+       }
+       #membership-part .item .price .overlay{
+           padding: 10px;
+       }
+       #membership-part .item .price .overlay p{
+           font-size: 40px;
+       }
+       #membership-part .item ul li{
+           padding: 5px;
+           font-size: 13px;
+       }
+       #membership-part .item a{
+           padding: 8px;
+           font-size: 14px;
+       } */
+
+       /* testimonial css start */
+
+       #testimonial-part .testimonial .overlay .item .top{
+           height: 100px;
+       }
+       #testimonial-part .testimonial .overlay .item .top .text{
+           width: auto;
+       }
+       #testimonial-part .testimonial .overlay .item .bottom p{
+           width: auto;
+       }
+ /* testimonial css end */
+
+ #class-part .colorful-tab-wrapper{
+     padding: 0;
+ }
+ #class-part .colorful-tab-menu{
+     padding: 0;
+     flex-direction: row;
+ }
+
+ #class-part .colorful-tab-menu-item{
+          padding: 0 5px;
+          border-top: 1px solid #fff;
+          border-right: 1px solid #fff;
+ }
+
+ #class-part .colorful-tab-content ul li{
+     width: 49%;
+     padding: 15px 0;
+     transform: scale(.98);
+ }
+ #class-part .colorful-tab-content ul li:hover{
+     transform: scale(1);
+ }
+ #class-part .colorful-tab-content ul li p{
+     font-size: 12px;
+ }
+
+
+
+
+
+       #counter-part .item p{
+           font-size: 22px;
+       }
+       #counter-part .item span{
+           font-size: 14px;
+           margin-top: 0;
+       }
+       #counter-part .item{
+           margin-left: 5px;
+       }
+       #counter-part .item2{
+           margin-left: 0;
+       }
+       #counter-part .item3{
+           margin-left: 0;
+       }
+       #counter-part .item4{
+           margin-left: 0;
+       }
+       #counter-part .item5{
+           text-align: center;
+       }
+     
+}
+/* =============================================================================================== */
+
+@media(min-width:576px) and (max-width:767px){
+    /* nav css start */
+    nav{
+        margin-top: 0;
+        padding: 8px 0 !important;
+    }
+    nav .navbar-brand{
+        background: transparent;
+        border: 0;
+        width: auto;
+        height: auto;
+        line-height: 0;
+        position: static;
+    }
+    nav .navbar-brand img{
+        width: 80%;
+    }
+    nav ul{
+        background: #000;
+        text-align: center;
+    }
+    nav ul li a{
+        margin-left: 0;
+    }
+    /* nav css end */
+
+   /* banner css start */
+    #banner-part .banner .overlay{
+        text-align: center;
+        padding-top: 150px;
+        padding-bottom: 100px;
+    }
+    #banner-part .banner .overlay h3{
+        font-size: 25px;
+    }
+    #banner-part .banner .overlay h1{
+        font-size: 40px;
+    }
+    #banner-part .banner .overlay p{
+        width: auto;
+        font-size: 12px;
+    }
+    #banner-part .banner .overlay a{
+        margin-left: 10px;
+        padding: 8px;
+    }
+
+    #banner-part .banner .overlay h3::after {
+        display: none;
+    }
+    #banner-part .banner .overlay h3::before {
+        display: none;
+    }
+    #banner-part .banner .overlay h1::after {
+        display: none;
+    }
+    #banner-part .banner .overlay h1::before {
+        display: none;
+    }
+    #banner-part .banner .overlay .aftr::after{
+        display: none;
+    }
+   #banner-part .banner .overlay .aftr::before{
+        display: none;
+    }
+
+
+       /* banner css end */
+
+
+       /* about css start */
+       #about-part .text p{
+           width: auto;
+           font-size: 13px;
+       }
+
+       /* about css end */
+       /* team css start */
+       #team-part .item .img{
+           top: 20px;
+       }
+       /* team css end */
+
+
+       /* testimonial css start */
+
+       #testimonial-part .testimonial .overlay .item .top{
+           height: 100px;
+       }
+       #testimonial-part .testimonial .overlay .item .top .text{
+           width: auto;
+       }
+       #testimonial-part .testimonial .overlay .item .bottom p{
+           width: auto;
+       }
+ /* testimonial css end */
+
+ #class-part .colorful-tab-wrapper{
+     padding: 0;
+ }
+ #class-part .colorful-tab-menu{
+     padding: 0;
+     flex-direction: row;
+ }
+
+ #class-part .colorful-tab-menu-item{
+          padding: 0 5px;
+          border-top: 1px solid #fff;
+          border-right: 1px solid #fff;
+ }
+
+ #class-part .colorful-tab-content ul li{
+     width: 49%;
+     padding: 15px 0;
+     transform: scale(.98);
+ }
+ #class-part .colorful-tab-content ul li:hover{
+     transform: scale(1);
+ }
+ #class-part .colorful-tab-content ul li p{
+     font-size: 12px;
+ }
+
+
+
+
+
+       #counter-part .item p{
+           font-size: 22px;
+       }
+       #counter-part .item span{
+           font-size: 14px;
+           margin-top: 0;
+       }
+       #counter-part .item{
+           margin-left: 5px;
+       }
+       #counter-part .item2{
+           margin-left: 0;
+       }
+       #counter-part .item3{
+           margin-left: 0;
+       }
+       #counter-part .item4{
+           margin-left: 0;
+       }
+       #counter-part .item5{
+           text-align: center;
+       }
+     
+}
+/* ============================================================================================= */
+@media(min-width:768px) and (max-width:991px){
+    /* nav css start */
+    nav{
+        margin-top: 0;
+        padding: 8px 0 !important;
+    }
+    nav .navbar-brand{
+        background: transparent;
+        border: 0;
+        width: auto;
+        height: auto;
+        line-height: 0;
+        position: static;
+    }
+    nav .navbar-brand img{
+        width: 80%;
+    }
+    nav ul{
+        background: #000;
+        text-align: center;
+    }
+    nav ul li a{
+        margin-left: 0;
+    }
+    /* nav css end */
+
+
+    #banner-part .banner .overlay h3::after {
+        right: 64px;
+    }
+    #banner-part .banner .overlay h3::before {
+        left: 14px;
+    }
+    #banner-part .banner .overlay h1::after {
+        right: 64px;
+    }
+    #banner-part .banner .overlay h1::before {
+        left: 14px;
+    }
+    #banner-part .banner .overlay .aftr::after{
+        right: -118px;
+    }
+   #banner-part .banner .overlay .aftr::before{
+        left: -357px;
+    } 
+
+
+       /* banner css end */
+
+
+       /* about css start */
+       #about-part .text{
+           text-align: center;
+       }
+       #about-part .text p{
+           width: auto;
+           font-size: 13px;
+           
+       }
+
+       /* about css end */
+       /* team css start */
+       #team-part .item .img{
+           top: 20px;
+       }
+       /* team css end */
+
+
+       #membership-part .item h3{
+           padding: 10px;
+           font-size: 14px;
+       }
+       #membership-part .item .price .overlay{
+           padding: 10px;
+       }
+       #membership-part .item .price .overlay p{
+           font-size: 40px;
+       }
+       #membership-part .item ul li{
+           padding: 5px;
+           font-size: 13px;
+       }
+       #membership-part .item a{
+           padding: 8px;
+           font-size: 14px;
+       }
+
+       /* testimonial css start */
+
+       #testimonial-part .testimonial .overlay .item .top{
+           height: 100px;
+       }
+       #testimonial-part .testimonial .overlay .item .top .text{
+           width: auto;
+       }
+       #testimonial-part .testimonial .overlay .item .bottom p{
+           width: auto;
+       }
+ /* testimonial css end */
+
+ #class-part .colorful-tab-wrapper{
+     padding: 0;
+ }
+ #class-part .colorful-tab-menu{
+     padding: 0;
+     flex-direction: row;
+ }
+
+ #class-part .colorful-tab-menu-item{
+          padding: 0 5px;
+          border-top: 1px solid #fff;
+          border-right: 1px solid #fff;
+ }
+
+ #class-part .colorful-tab-content ul li{
+     width: 49%;
+     padding: 15px 0;
+     transform: scale(.98);
+ }
+ #class-part .colorful-tab-content ul li:hover{
+     transform: scale(1);
+ }
+ #class-part .colorful-tab-content ul li p{
+     font-size: 12px;
+ }
+
+
+
+
+
+       #counter-part .item p{
+           font-size: 22px;
+       }
+       #counter-part .item span{
+           font-size: 14px;
+           margin-top: 0;
+       }
+       #counter-part .item{
+           margin-left: 5px;
+       }
+       #counter-part .item2{
+           margin-left: 0;
+       }
+       #counter-part .item3{
+           margin-left: 0;
+       }
+       #counter-part .item4{
+           margin-left: 0;
+       }
+       #counter-part .item5{
+           text-align: center;
+       }
+     
+}
+
+
+
+/* ============================================================================== */
+
+
+
+@media(min-width:992px) and (max-width:1199px){
+   
+    #banner-part .banner .overlay h3::after {
+        right: 118px;
+    }
+    #banner-part .banner .overlay h3::before {
+        left: 110px;
+    }
+    #banner-part .banner .overlay h1::after {
+        right: 118px;
+    }
+    #banner-part .banner .overlay h1::before {
+        left: 110px;
+    }
+    #banner-part .banner .overlay .aftr::after{
+        right: -187px;
+    }
+   #banner-part .banner .overlay .aftr::before{
+        left: -382px;
+    } 
+
+
+
+    #about-part .text p{
+        width: auto;
+    }
+
+
+
+
+
+    #team-part .item .text p{
+        width: auto;
+    }
+
+
+    #testimonial-part .testimonial .overlay .item .top .img{
+        width: 90px;
+        height: 90px;
+        float: left;
+    }
+    #testimonial-part .testimonial .overlay .item .top .text {
+        width: 300px;
+        float: left;
+        margin-left: 12px;
+    }
+
+    #testimonial-part .testimonial .overlay .item .bottom p{
+        width: 427px;
+    }
+
+
+
+
+
+
+    #footer-part .overlay ul li{
+        font-size: 12px;
+    }
+    #footer-part .overlay ul li span{
+        width: 60%;
+    }
+    #footer-part h3{
+        margin-left: 20px;
+    }
+    #footer-part .overlay .img{
+        margin-left: 20px;
+    }
+    #footer-part .overlay .contact .icon ul li{
+        margin-right: 0px;
+    }
+
+
+
+     
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
